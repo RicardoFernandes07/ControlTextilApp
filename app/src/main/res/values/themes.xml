@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.ControlTextil" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your base theme attributes -->
+
+        <item name="android:colorBackground">@android:color/background_light</item>
+
+        <!-- Add other customizations as needed -->
+    </style>
+
+
+    <!-- Application theme -->
+    <style name="Theme.ControlTextil" parent="Base.Theme.ControlTextil">
+        <!-- Customize your application theme attributes -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <!-- Add other customizations as needed -->
+    </style>
+</resources>

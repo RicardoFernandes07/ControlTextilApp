@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cor primária do aplicativo -->
+    <color name="colorPrimary">#3F51B5</color>
+
+    <!-- Cor escura da barra de ação -->
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!-- Cor de destaque/acento -->
+    <color name="colorAccent">#FF4081</color>
+</resources>
